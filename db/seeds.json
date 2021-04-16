@@ -7,10 +7,7 @@
       "type": "Pale Ale",
       "manufacturer": "Boulevard",
       "breweryState": "M0", 
-      "flavorProfile": [
-        "citrus",
-        "bright"
-      ],
+      "flavorProfile": "citrus; bright",
       "likes": 0
     },
     {
