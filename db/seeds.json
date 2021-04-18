@@ -7,10 +7,7 @@
       "type": "Pale Ale",
       "manufacturer": "Boulevard",
       "breweryState": "M0", 
-      "flavorProfile": [
-        "citrus",
-        "bright"
-      ],
+      "flavorProfile": "citrus, bright",
       "likes": 0
     },
     {
@@ -20,11 +17,7 @@
       "type": "IPA",
       "manufacturer": "Boulevard",
       "breweryState": "MO", 
-      "flavorProfile": [
-        "citrus",
-        "pine",
-        "spicy"
-      ],
+      "flavorProfile": "citrus, pine, spicy",
       "likes": 0
     },
     {
@@ -34,11 +27,8 @@
       "type": "Saison",
       "manufacturer": "Boulevard",
       "breweryState": "MO", 
-      "flavorProfile": [
-        "citrus",
-        "hoppy",
-        "spicy"
-      ],
+      "flavorProfile": "citrus, hoppy, spicy"
+      ,
       "likes": 0
     },
     {
@@ -48,11 +38,7 @@
       "type": "Stout",
       "manufacturer": "Boulevard",
       "breweryState": "MO", 
-      "flavorProfile": [
-        "coffee",
-        "spicy",
-        "herbal"
-      ],
+      "flavorProfile": "coffee, spicy, herbal",
       "likes": 0
     },
     {
@@ -62,10 +48,7 @@
       "type": "Pale Ale",
       "manufacturer": "Boulevard",
       "breweryState": "MO", 
-      "flavorProfile": [
-        "citrus",
-        "bright"
-      ],
+      "flavorProfile": "citrus, bright",
       "likes": 0
     },
     {
@@ -75,10 +58,7 @@
       "type": "Pilsner",
       "manufacturer": "Zero Gravity",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "crisp",
-        "bitter"
-      ],
+      "flavorProfile": "crisp, bitter",
       "likes": 0
     },
     {
@@ -88,10 +68,7 @@
       "type": "IPA",
       "manufacturer": "Zero Gravity",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "bright"
-      ],
+      "flavorProfile": "citrus, bright",
       "likes": 0
     },
     {
@@ -101,10 +78,7 @@
       "type": "Pale Ale",
       "manufacturer": "Zero Gravity",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "floral"
-      ],
+      "flavorProfile": "citrus, floral",
       "likes": 0
     },
     {
@@ -114,10 +88,7 @@
       "type": "Sour",
       "manufacturer": "Zero Gravity",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "fruity",
-        "bright"
-      ],
+      "flavorProfile": "fruity, bright",
       "likes": 0
     },
     {
@@ -127,10 +98,7 @@
       "type": "Pilsner",
       "manufacturer": "Zero Gravity",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "crisp",
-        "spicy"
-      ],
+      "flavorProfile": "crisp, spicy",
       "likes": 0
     },
     {
@@ -140,11 +108,7 @@
       "type": "Pale Ale",
       "manufacturer": "Upper Pass",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "bright",
-        "spicy",
-        "citrus"
-      ],
+      "flavorProfile": "bright, spicy, citrus",
       "likes": 0
     },
     {
@@ -154,11 +118,7 @@
       "type": "Double IPA",
       "manufacturer": "Upper Pass",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "hoppy",
-        "bitter",
-        "pine"
-      ],
+      "flavorProfile": "hoppy, bitter, pine",
       "likes": 0
     },
     {
@@ -168,11 +128,7 @@
       "type": "Stout",
       "manufacturer": "Upper Pass",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "coffee",
-        "bitter",
-        "chocolate"
-      ],
+      "flavorProfile": "coffee, bitter, chocolate",
       "likes": 0
     },
     {
@@ -182,11 +138,7 @@
       "type": "Double IPA",
       "manufacturer": "Upper Pass",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "hoppy",
-        "bright"
-      ],
+      "flavorProfile": "citrus, hoppy, bright",
       "likes": 0
     },
     {
@@ -196,10 +148,7 @@
       "type": "Double IPA",
       "manufacturer": "Zero Gravity",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "hoppy",
-        "bright"
-      ],
+      "flavorProfile": "hoppy, bright",
       "likes": 0
     },
     {
@@ -209,10 +158,7 @@
       "type": "Pale Ale",
       "manufacturer": "Harpoon",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "bright"
-      ],
+      "flavorProfile": "citrus, bright",
       "likes": 0
     },
     {
@@ -222,10 +168,7 @@
       "type": "Stout",
       "manufacturer": "Harpoon",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "chocolate",
-        "bitter"
-      ],
+      "flavorProfile": "chocolate, bitter",
       "likes": 0
     },
     {
@@ -235,11 +178,7 @@
       "type": "Pale Ale",
       "manufacturer": "Harpoon",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "bright",
-        "pine"
-      ],
+      "flavorProfile": "citrus, bright, pine",
       "likes": 0
     },
     {
@@ -249,11 +188,7 @@
       "type": "IPA",
       "manufacturer": "Harpoon",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "floral",
-        "herbal"
-      ],
+      "flavorProfile": "citrus, floral, herbal",
       "likes": 0
     },
     {
@@ -263,11 +198,7 @@
       "type": "IPA",
       "manufacturer": "Harpoon",
       "breweryState": "VT", 
-      "flavorProfile": [
-        "citrus",
-        "bright",
-        "crisp"
-      ],
+      "flavorProfile": "citrus, bright, crisp",
       "likes": 0
     },
     {
@@ -277,11 +208,7 @@
       "type": "IPA",
       "manufacturer": "Bell's", 
       "breweryState": "MI",
-      "flavorProfile": [
-        "bitter",
-        "citrus",
-        "pine"
-      ],
+      "flavorProfile": "bitter, citrus, pine",
       "likes": 0 
     }, 
     {
@@ -291,11 +218,7 @@
       "type": "Stout",
       "manufacturer": "Bell's", 
       "breweryState": "MI",
-      "flavorProfile": [
-        "roasted",
-        "chocolate",
-        "coffee"
-      ],
+      "flavorProfile": "roasted, chocolate, coffee",
       "likes": 0 
     },
     {
@@ -305,10 +228,7 @@
       "type": "IPA",
       "manufacturer": "Bell's", 
       "breweryState": "MI",
-      "flavorProfile": [
-        "citrus",
-        "bright"
-      ],
+      "flavorProfile": "citrus, bright",
       "likes": 0 
     }, 
     {
@@ -318,10 +238,7 @@
       "type": "Lager",
       "manufacturer": "Bell's", 
       "breweryState": "MI",
-      "flavorProfile": [
-        "bitter",
-        "crisp"
-      ],
+      "flavorProfile": "bitter, crisp",
       "likes": 0 
     }, 
     {
@@ -331,11 +248,7 @@
       "type": "Sour",
       "manufacturer": "Bell's", 
       "breweryState": "MI",
-      "flavorProfile": [
-        "citrus",
-        "fruit",
-        "oak"
-      ],
+      "flavorProfile": "citrus, fruit, oak",
       "likes": 0 
     }, 
     {
@@ -345,11 +258,7 @@
       "type": "IPA",
       "manufacturer": "Six Point", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "citrus",
-        "hazy",
-        "wheat"
-      ],
+      "flavorProfile": "citrus, hazy, wheat",
       "likes": 0 
     }, 
     {
@@ -359,11 +268,7 @@
       "type": "Pilsner",
       "manufacturer": "Six Point", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "hoppy",
-        "floral",
-        "crisp"
-      ],
+      "flavorProfile": "hoppy, floral, crisp",
       "likes": 0 
     }, 
     {
@@ -373,11 +278,7 @@
       "type": "IPA",
       "manufacturer": "Six Point", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "hoppy",
-        "dry",
-        "citrus"
-      ],
+      "flavorProfile": "hoppy, dry, citrus",
       "likes": 0 
     }, 
     {
@@ -387,10 +288,7 @@
       "type": "Lager",
       "manufacturer": "Six Point", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "malty",
-        "bright"
-      ],
+      "flavorProfile": "malty, bright",
       "likes": 0 
     },
     {
@@ -400,11 +298,7 @@
       "type": "Stout",
       "manufacturer": "Six Point", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "caramel",
-        "chocolate",
-        "roasted"
-      ],
+      "flavorProfile": "caramel, chocolate, roasted",
       "likes": 0 
     }, 
     {
@@ -414,10 +308,7 @@
       "type": "Lager",
       "manufacturer": "Other Half", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "citrus",
-        "hoppy"
-      ],
+      "flavorProfile": "citrus, hoppy",
       "likes": 0 
     }, 
     {
@@ -427,9 +318,7 @@
       "type": "Pilsner",
       "manufacturer": "Other Half", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "hoppy"
-      ],
+      "flavorProfile": "hoppy",
       "likes": 0 
     }, 
     {
@@ -439,11 +328,7 @@
       "type": "IPA",
       "manufacturer": "Other Half", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "sour",
-        "citrus",
-        "vanilla"
-      ],
+      "flavorProfile": "sour, citrus, vanilla",
       "likes": 0 
     }, 
     {
@@ -453,11 +338,7 @@
       "type": "Porter",
       "manufacturer": "Other Half", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "chocolate",
-        "malty",
-        "fruity"
-      ],
+      "flavorProfile": "chocolate, malty, fruity",
       "likes": 0 
     }, 
     {
@@ -467,10 +348,7 @@
       "type": "IPA",
       "manufacturer": "Other Half", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "hoppy",
-        "honey"
-      ],
+      "flavorProfile": "hoppy, honey",
       "likes": 0 
     }, 
     {
@@ -480,11 +358,7 @@
       "type": "Lager",
       "manufacturer": "Brooklyn Brewery", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "citrus",
-        "caramel",
-        "toasted"
-      ],
+      "flavorProfile": "citrus, caramel, toasted",
       "likes": 0 
     }, 
     {
@@ -494,11 +368,7 @@
       "type": "Saison",
       "manufacturer": "Transmitter Brewery", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "malty",
-        "citrus",
-        "dry"
-      ],
+      "flavorProfile": "malty, citrus, dry",
       "likes": 0 
     }, 
     {
@@ -508,10 +378,7 @@
       "type": "Pilsner",
       "manufacturer": "Other Half", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "hoppy",
-        "bright"
-      ],
+      "flavorProfile": "hoppy, bright",
       "likes": 0 
     }, 
     {
@@ -521,11 +388,7 @@
       "type": "Sour",
       "manufacturer": "Brooklyn Brewery", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "citrus",
-        "tart",
-        "crisp"
-      ],
+      "flavorProfile": "citrus, tart, crisp",
       "likes": 0 
     }, 
     {
@@ -535,11 +398,7 @@
       "type": "Brown Ale",
       "manufacturer": "Brooklyn Brewery", 
       "breweryState": "NY",
-      "flavorProfile": [
-        "caramel",
-        "fruity",
-        "coffee"
-      ],
+      "flavorProfile": "caramel, fruity, coffee",
       "likes": 0 
     }
     ],

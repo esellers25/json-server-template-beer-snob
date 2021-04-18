@@ -541,6 +541,26 @@
         "coffee"
       ],
       "likes": 0
+    },
+    {
+      "name": "Budweiser",
+      "image": "https://dydza6t6xitx6.cloudfront.net/ci-budweiser-24269668d4e23c97.jpeg",
+      "manufacturer": "Anheiser-Busch",
+      "type": "Lager",
+      "breweryState": "MI",
+      "flavorProfile": "robust",
+      "likes": 0,
+      "id": 41
+    },
+    {
+      "name": "Budweiser",
+      "image": "https://dydza6t6xitx6.cloudfront.net/ci-budweiser-24269668d4e23c97.jpeg",
+      "manufacturer": "Anheiser",
+      "type": "Lager",
+      "breweryState": "MI",
+      "flavorProfile": "robust",
+      "likes": 0,
+      "id": 42
     }
   ],
   "review": [
