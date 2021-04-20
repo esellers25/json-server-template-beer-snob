@@ -7,9 +7,9 @@
       "type": "Pale Ale",
       "manufacturer": "Boulevard Brewing Company",
       "link": "https://www.boulevard.com/",
-      "breweryState": "M0", 
+      "breweryState": "MO",
       "flavorProfile": "citrus, bright",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "type": "IPA",
       "manufacturer": "Boulevard Brewing Company",
       "link": "https://www.boulevard.com/",
-      "breweryState": "MO", 
+      "breweryState": "MO",
       "flavorProfile": "citrus, pine, spicy",
       "likes": 0
     },
@@ -29,9 +29,8 @@
       "type": "Saison",
       "manufacturer": "Boulevard Brewing Company",
       "link": "https://www.boulevard.com/",
-      "breweryState": "MO", 
-      "flavorProfile": "citrus, hoppy, spicy"
-      ,
+      "breweryState": "MO",
+      "flavorProfile": "citrus, hoppy, spicy",
       "likes": 0
     },
     {
@@ -41,7 +40,7 @@
       "type": "Stout",
       "manufacturer": "Boulevard Brewing Company",
       "link": "https://www.boulevard.com/",
-      "breweryState": "MO", 
+      "breweryState": "MO",
       "flavorProfile": "coffee, spicy, herbal",
       "likes": 0
     },
@@ -52,7 +51,7 @@
       "type": "Pale Ale",
       "manufacturer": "Boulevard Brewing Company",
       "link": "https://www.boulevard.com/",
-      "breweryState": "MO", 
+      "breweryState": "MO",
       "flavorProfile": "citrus, bright",
       "likes": 0
     },
@@ -63,7 +62,7 @@
       "type": "Pilsner",
       "manufacturer": "Zero Gravity Brewery",
       "link": "https://www.zerogravitybeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "crisp, bitter",
       "likes": 0
     },
@@ -74,7 +73,7 @@
       "type": "IPA",
       "manufacturer": "Zero Gravity Brewery",
       "link": "https://www.zerogravitybeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, bright",
       "likes": 0
     },
@@ -85,7 +84,7 @@
       "type": "Pale Ale",
       "manufacturer": "Zero Gravity Brewery",
       "link": "https://www.zerogravitybeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, floral",
       "likes": 0
     },
@@ -96,7 +95,7 @@
       "type": "Sour",
       "manufacturer": "Zero Gravity Brewery",
       "link": "https://www.zerogravitybeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "fruity, bright",
       "likes": 0
     },
@@ -107,7 +106,7 @@
       "type": "Pilsner",
       "manufacturer": "Zero Gravity Brewery",
       "link": "https://www.zerogravitybeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "crisp, spicy",
       "likes": 0
     },
@@ -118,9 +117,9 @@
       "type": "Pale Ale",
       "manufacturer": "Upper Pass Beer Company",
       "link": "https://www.upperpassbeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "bright, spicy, citrus",
-      "likes": 0
+      "likes": 4
     },
     {
       "id": 12,
@@ -129,7 +128,7 @@
       "type": "Double IPA",
       "manufacturer": "Upper Pass Beer Company",
       "link": "https://www.upperpassbeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "hoppy, bitter, pine",
       "likes": 0
     },
@@ -140,7 +139,7 @@
       "type": "Stout",
       "manufacturer": "Upper Pass Beer Company",
       "link": "https://www.upperpassbeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "coffee, bitter, chocolate",
       "likes": 0
     },
@@ -151,7 +150,7 @@
       "type": "Double IPA",
       "manufacturer": "Upper Pass Beer Company",
       "link": "https://www.upperpassbeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, hoppy, bright",
       "likes": 0
     },
@@ -162,7 +161,7 @@
       "type": "Double IPA",
       "manufacturer": "Zero Gravity Brewery",
       "link": "https://www.zerogravitybeer.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "hoppy, bright",
       "likes": 0
     },
@@ -173,7 +172,7 @@
       "type": "Pale Ale",
       "manufacturer": "Harpoon Brewery",
       "link": "https://www.harpoonbrewery.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, bright",
       "likes": 0
     },
@@ -184,7 +183,7 @@
       "type": "Stout",
       "manufacturer": "Harpoon Brewery",
       "link": "https://www.harpoonbrewery.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "chocolate, bitter",
       "likes": 0
     },
@@ -195,7 +194,7 @@
       "type": "Pale Ale",
       "manufacturer": "Harpoon Brewery",
       "link": "https://www.harpoonbrewery.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, bright, pine",
       "likes": 0
     },
@@ -206,7 +205,7 @@
       "type": "IPA",
       "manufacturer": "Harpoon Brewery",
       "link": "https://www.harpoonbrewery.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, floral, herbal",
       "likes": 0
     },
@@ -217,237 +216,236 @@
       "type": "IPA",
       "manufacturer": "Harpoon Brewery",
       "link": "https://www.harpoonbrewery.com/",
-      "breweryState": "VT", 
+      "breweryState": "VT",
       "flavorProfile": "citrus, bright, crisp",
       "likes": 0
     },
     {
-      "id": 21, 
-      "name": "Two-Hearted Ale", 
-      "image": "https://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_1502.jpg", 
+      "id": 21,
+      "name": "Two-Hearted Ale",
+      "image": "https://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_1502.jpg",
       "type": "IPA",
       "manufacturer": "Bell's Brewery",
-      "link": "http://www.bellsbeer.com/", 
+      "link": "http://www.bellsbeer.com/",
       "breweryState": "MI",
       "flavorProfile": "bitter, citrus, pine",
-      "likes": 0 
-    }, 
-    {
-      "id": 22, 
-      "name": "Kalazmazoo Stout", 
-      "image": "https://products1.imgix.drizly.com/ci-bells-kalamazoo-stout-ab5d203036e69884.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20", 
-      "type": "Stout",
-      "manufacturer": "Bell's Brewery",
-      "link": "http://www.bellsbeer.com/", 
-      "breweryState": "MI",
-      "flavorProfile": "roasted, chocolate, coffee",
-      "likes": 0 
+      "likes": 0
     },
     {
-      "id": 23, 
-      "name": "The Official", 
-      "image": "https://cdn.shopify.com/s/files/1/0227/0581/products/Bells-Official-12OZ-CAN_600x.JPG?v=1599014504", 
+      "id": 22,
+      "name": "Kalazmazoo Stout",
+      "image": "https://products1.imgix.drizly.com/ci-bells-kalamazoo-stout-ab5d203036e69884.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20",
+      "type": "Stout",
+      "manufacturer": "Bell's Brewery",
+      "link": "http://www.bellsbeer.com/",
+      "breweryState": "MI",
+      "flavorProfile": "roasted, chocolate, coffee",
+      "likes": 0
+    },
+    {
+      "id": 23,
+      "name": "The Official",
+      "image": "https://cdn.shopify.com/s/files/1/0227/0581/products/Bells-Official-12OZ-CAN_600x.JPG?v=1599014504",
       "type": "IPA",
       "manufacturer": "Bell's Brewery",
-      "link": "http://www.bellsbeer.com/", 
+      "link": "http://www.bellsbeer.com/",
       "breweryState": "MI",
       "flavorProfile": "citrus, bright",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 24, 
-      "name": "Lager of the Lakes", 
-      "image": "https://beverages2u.com/wp-content/uploads/2019/05/bells-lagerofthelakes.jpg", 
+      "id": 24,
+      "name": "Lager of the Lakes",
+      "image": "https://beverages2u.com/wp-content/uploads/2019/05/bells-lagerofthelakes.jpg",
       "type": "Lager",
       "manufacturer": "Bell's Brewery",
-      "link": "http://www.bellsbeer.com/", 
+      "link": "http://www.bellsbeer.com/",
       "breweryState": "MI",
       "flavorProfile": "bitter, crisp",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 25, 
-      "name": "The Wild One", 
-      "image": "https://cdn.shopify.com/s/files/1/0227/0581/products/Bells-The-Wild-One-Sour-750ML-BTL_600x.jpg?v=1611752039", 
+      "id": 25,
+      "name": "The Wild One",
+      "image": "https://cdn.shopify.com/s/files/1/0227/0581/products/Bells-The-Wild-One-Sour-750ML-BTL_600x.jpg?v=1611752039",
       "type": "Sour",
       "manufacturer": "Bell's Brewery",
-      "link": "http://www.bellsbeer.com/", 
+      "link": "http://www.bellsbeer.com/",
       "breweryState": "MI",
       "flavorProfile": "citrus, fruit, oak",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 26, 
-      "name": "Sweet Action", 
-      "image": "https://cdn.shopify.com/s/files/1/0058/8854/0731/products/sweet-action-526166_530x@2x.jpg?v=1608180123", 
+      "id": 26,
+      "name": "Sweet Action",
+      "image": "https://cdn.shopify.com/s/files/1/0058/8854/0731/products/sweet-action-526166_530x@2x.jpg?v=1608180123",
       "type": "IPA",
       "manufacturer": "Six Point Brewery",
-      "link": "https://sixpoint.com/", 
+      "link": "https://sixpoint.com/",
       "breweryState": "NY",
       "flavorProfile": "citrus, hazy, wheat",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 27, 
-      "name": "The Crisp", 
-      "image": "https://cdn2.bigcommerce.com/server5500/tpbc2s65/products/7086/images/10221/sixpoint-crisp__42669.1535774848.1280.1280.jpg?c=2", 
+      "id": 27,
+      "name": "The Crisp",
+      "image": "https://cdn2.bigcommerce.com/server5500/tpbc2s65/products/7086/images/10221/sixpoint-crisp__42669.1535774848.1280.1280.jpg?c=2",
       "type": "Pilsner",
       "manufacturer": "Six Point Brewery",
-      "link": "https://sixpoint.com/", 
+      "link": "https://sixpoint.com/",
       "breweryState": "NY",
       "flavorProfile": "hoppy, floral, crisp",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 28, 
-      "name": "Bengali", 
-      "image": "https://nycbeerkegs.com/pub/media/catalog/product/cache/a3c28886b0eaebf28a5ff7c61ee62452/b/b/bb_755.jpg", 
+      "id": 28,
+      "name": "Bengali",
+      "image": "https://nycbeerkegs.com/pub/media/catalog/product/cache/a3c28886b0eaebf28a5ff7c61ee62452/b/b/bb_755.jpg",
       "type": "IPA",
       "manufacturer": "Six Point Brewery",
       "link": "https://sixpoint.com/",
       "breweryState": "NY",
       "flavorProfile": "hoppy, dry, citrus",
-      "likes": 0 
-    }, 
-    {
-      "id": 29, 
-      "name": "Aspen-Flo", 
-      "image": "https://products1.imgix.drizly.com/ci-sixpoint-alpenflo-helles-lager-e0baf17e9f524334.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20", 
-      "type": "Lager",
-      "manufacturer": "Six Point Brewery",
-      "link": "https://sixpoint.com/", 
-      "breweryState": "NY",
-      "flavorProfile": "malty, bright",
-      "likes": 0 
+      "likes": 0
     },
     {
-      "id": 30, 
-      "name": "Master Blend", 
-      "image": "https://sixpoint.com/wp-content/uploads/2019/12/sixpoint_can_site_masterblend-v2.png", 
+      "id": 29,
+      "name": "Aspen-Flo",
+      "image": "https://products1.imgix.drizly.com/ci-sixpoint-alpenflo-helles-lager-e0baf17e9f524334.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20",
+      "type": "Lager",
+      "manufacturer": "Six Point Brewery",
+      "link": "https://sixpoint.com/",
+      "breweryState": "NY",
+      "flavorProfile": "malty, bright",
+      "likes": 0
+    },
+    {
+      "id": 30,
+      "name": "Master Blend",
+      "image": "https://sixpoint.com/wp-content/uploads/2019/12/sixpoint_can_site_masterblend-v2.png",
       "type": "Stout",
       "manufacturer": "Six Point Brewery",
-      "link": "https://sixpoint.com/", 
+      "link": "https://sixpoint.com/",
       "breweryState": "NY",
       "flavorProfile": "caramel, chocolate, roasted",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 31, 
-      "name": "Lime Snaps", 
-      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Lime-Snaps.png?auto=compress%2Cformat&fit=scale&h=1024&ixlib=php-1.2.1&w=1024&wpsize=large", 
+      "id": 31,
+      "name": "Lime Snaps",
+      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Lime-Snaps.png?auto=compress%2Cformat&fit=scale&h=1024&ixlib=php-1.2.1&w=1024&wpsize=large",
       "type": "Lager",
       "manufacturer": "Other Half Brewing Company",
-      "link": "https://otherhalfbrewing.com/", 
+      "link": "https://otherhalfbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "citrus, hoppy",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 32, 
-      "name": "Laurel Laurel", 
-      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Laurel-Laurel-v1.png?auto=compress%2Cformat&fit=scale&h=1024&ixlib=php-1.2.1&w=1024&wpsize=large", 
+      "id": 32,
+      "name": "Laurel Laurel",
+      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Laurel-Laurel-v1.png?auto=compress%2Cformat&fit=scale&h=1024&ixlib=php-1.2.1&w=1024&wpsize=large",
       "type": "Pilsner",
       "manufacturer": "Other Half Brewing Company",
-      "link": "https://otherhalfbrewing.com/",  
+      "link": "https://otherhalfbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "hoppy",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 33, 
-      "name": "Make Up Your Mind Already!", 
-      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Make-Up-Your-Mind-Already.png?auto=compress%2Cformat&fit=scale&h=1024&ixlib=php-1.2.1&w=1024&wpsize=large", 
+      "id": 33,
+      "name": "Make Up Your Mind Already!",
+      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Make-Up-Your-Mind-Already.png?auto=compress%2Cformat&fit=scale&h=1024&ixlib=php-1.2.1&w=1024&wpsize=large",
       "type": "IPA",
       "manufacturer": "Other Half Brewing Company",
-      "link": "https://otherhalfbrewing.com/",  
+      "link": "https://otherhalfbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "sour, citrus, vanilla",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 34, 
-      "name": "Tough Call", 
-      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/OTHER-HALF-TOUGH-CALL-RENDER-SMALL-STUFF.png?auto=compress%2Cformat&fit=crop&h=600&ixlib=php-1.2.1&w=600&wpsize=tile_strict", 
+      "id": 34,
+      "name": "Tough Call",
+      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/OTHER-HALF-TOUGH-CALL-RENDER-SMALL-STUFF.png?auto=compress%2Cformat&fit=crop&h=600&ixlib=php-1.2.1&w=600&wpsize=tile_strict",
       "type": "Porter",
       "manufacturer": "Other Half Brewing Company",
-      "link": "https://otherhalfbrewing.com/",  
+      "link": "https://otherhalfbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "chocolate, malty, fruity",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 35, 
-      "name": "DDH Oh... That's Trill", 
-      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Oh-Thats-Trill-render.png?auto=compress%2Cformat&fit=crop&h=600&ixlib=php-1.2.1&w=600&wpsize=tile_strict", 
+      "id": 35,
+      "name": "DDH Oh... That's Trill",
+      "image": "https://craftpeak-cooler-images.imgix.net/other-half-brewing/Oh-Thats-Trill-render.png?auto=compress%2Cformat&fit=crop&h=600&ixlib=php-1.2.1&w=600&wpsize=tile_strict",
       "type": "IPA",
       "manufacturer": "Other Half Brewing Company",
-      "link": "https://otherhalfbrewing.com/",  
+      "link": "https://otherhalfbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "hoppy, honey",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 36, 
-      "name": "Brooklyn Lager", 
-      "image": "https://cdn.justwineapp.com/assets/beer/bottle/brooklyn-brewery-brooklyn-lager_1488564066.png", 
+      "id": 36,
+      "name": "Brooklyn Lager",
+      "image": "https://cdn.justwineapp.com/assets/beer/bottle/brooklyn-brewery-brooklyn-lager_1488564066.png",
       "type": "Lager",
       "manufacturer": "Brooklyn Brewery",
       "link": "https://brooklynbrewery.com/",
       "breweryState": "NY",
       "flavorProfile": "citrus, caramel, toasted",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 37, 
-      "name": "S4 Classic Saison", 
-      "image": "https://untappd.akamaized.net/site/beer_logos_hd/beer-683619_d0a03_hd.jpeg", 
+      "id": 37,
+      "name": "S4 Classic Saison",
+      "image": "https://untappd.akamaized.net/site/beer_logos_hd/beer-683619_d0a03_hd.jpeg",
       "type": "Saison",
-      "manufacturer": "Transmitter Brewing", 
+      "manufacturer": "Transmitter Brewing",
       "link": "https://www.transmitterbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "malty, citrus, dry",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 38, 
-      "name": "L1 Bohemian Pilsner", 
-      "image": "https://www.transmitterbrewing.com/wp-content/uploads/2016/05/XMTR-L1.jpg", 
+      "id": 38,
+      "name": "L1 Bohemian Pilsner",
+      "image": "https://www.transmitterbrewing.com/wp-content/uploads/2016/05/XMTR-L1.jpg",
       "type": "Pilsner",
       "manufacturer": "Other Half Brewing Company",
-      "link": "https://otherhalfbrewing.com/",  
+      "link": "https://otherhalfbrewing.com/",
       "breweryState": "NY",
       "flavorProfile": "hoppy, bright",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 39, 
-      "name": "Bel Air Sour", 
-      "image": "https://images.ctfassets.net/sz2xpiwl6od9/5nMjojSbxgtKp8V9UGUcUS/d275a701f3cf3e8d4f347496ebe05aa3/Brooklyn_Bel_Air_Sour_19-01-25_CBB_Issue32_reviews-148_6x10.jpg?w=1200", 
+      "id": 39,
+      "name": "Bel Air Sour",
+      "image": "https://images.ctfassets.net/sz2xpiwl6od9/5nMjojSbxgtKp8V9UGUcUS/d275a701f3cf3e8d4f347496ebe05aa3/Brooklyn_Bel_Air_Sour_19-01-25_CBB_Issue32_reviews-148_6x10.jpg?w=1200",
       "type": "Sour",
       "manufacturer": "Brooklyn Brewery",
-      "link": "https://brooklynbrewery.com/", 
+      "link": "https://brooklynbrewery.com/",
       "breweryState": "NY",
       "flavorProfile": "citrus, tart, crisp",
-      "likes": 0 
-    }, 
+      "likes": 0
+    },
     {
-      "id": 40, 
-      "name": "Brooklyn Brown Ale", 
-      "image": "https://www.myamericanmarket.com/626-large_default/brooklyn-brown-ale-beer-bottle.jpg", 
+      "id": 40,
+      "name": "Brooklyn Brown Ale",
+      "image": "https://www.myamericanmarket.com/626-large_default/brooklyn-brown-ale-beer-bottle.jpg",
       "type": "Brown Ale",
       "manufacturer": "Brooklyn Brewery",
-      "link": "https://brooklynbrewery.com/", 
+      "link": "https://brooklynbrewery.com/",
       "breweryState": "NY",
       "flavorProfile": "caramel, fruity, coffee",
-      "likes": 0 
+      "likes": 0
     }
-    ],
-    "review": [
-      {
-        "id": 1,
-        "content": "This is a review of the beer with an id of 1.",
-        "beerId": 1
-      }
-    ]
-      
+  ],
+  "review": [
+    {
+      "id": 1,
+      "content": "This is a review of the beer with an id of 1.",
+      "beerId": 1
+    }
+  ]
 }
