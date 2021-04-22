@@ -443,11 +443,7 @@
     }
     ],
     "review": [
-      {
-        "id": 1,
-        "content": "This is a review of the beer with an id of 1.",
-        "beerId": 1
-      }
+   
     ]
       
 }
